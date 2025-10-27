@@ -1,1 +1,0 @@
-print("Fin4 daun")
